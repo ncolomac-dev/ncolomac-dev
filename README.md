@@ -1,6 +1,6 @@
 ## Hi, my name is Nicolas 😄
 
-___
+
 #### __An amateur programmer__
 ___
 
