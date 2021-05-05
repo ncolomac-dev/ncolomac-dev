@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, my name is Nicolas 😄
 
-<!--
-**ncolomac-dev/ncolomac-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+#### __An amateur programmer__
+___
 
-Here are some ideas to get you started:
+I'm a simple junior develop software and a simple mortal. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### In december 2019, i worked in a company, but now i'm dedicating to work in my personal projects.
+
+___
+
+![ncolomac-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=ncolomac-dev)
