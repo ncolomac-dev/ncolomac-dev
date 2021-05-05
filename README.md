@@ -10,4 +10,4 @@ I'm a simple junior develop software and a simple mortal.
 
 ___
 
-![ncolomac-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=ncolomac-dev)
+![ncolomac-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=ncolomac-dev&theme=prussian&show_icons=true)
