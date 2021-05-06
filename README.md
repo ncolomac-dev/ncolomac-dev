@@ -1,4 +1,4 @@
-## Hi, my name is Nicolas 😄
+# Hi, my name is Nicolas 😄
 
 
 ### __An amateur programmer__
@@ -11,4 +11,8 @@ ___
 
 ![ncolomac-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=ncolomac-dev&theme=solarized-dark&show_icons=true)
 
+
+
+## My Skills:
+___
 
