@@ -25,7 +25,6 @@ ___
 
 [java]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/programming/java-60-1174953.png
 
-
 [<img align="left" width="40px" height="40px" src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/programming/mysql-21-1174941.png">][mysql]
 
 [mysql]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/programming/mysql-21-1174941.png
@@ -44,4 +43,15 @@ ___
 
 [<img align="left" width="40px" src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/programming/css-131-722685.png">][css]
 
-[css]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/programming/css-131-722685.pngw
+[css]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/programming/css-131-722685.png
+
+
+
+
+## Used Languaje:
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncolomac-dev&layout=compact)](https://github.com/ncolomac-dev/ncolomac-dev)
+
+
