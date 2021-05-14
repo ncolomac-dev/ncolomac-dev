@@ -21,23 +21,23 @@ ___
 
 <br/>
 
-[<img align="left" width="70px" height="70px" float="inline-start" border="1px solid" src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/256x256/java-60-1174953.png">][java]
+[<img align="left" width="70px" height="70px" float="inline-start" border="1px solid" src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/programming/java-60-1174953.png">][java]
 
-[java]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/256x256/css-131-722685.png
+[java]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/programming/java-60-1174953.png
 
 
-[<img align="left" width="70px" height="70px" border="1px solid" src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/256x256/mysql-21-1174941.png">][mysql]
+[<img align="left" width="70px" height="70px" border="1px solid" src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/programming/mysql-21-1174941.png">][mysql]
 
-[mysql]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/256x256/mysql-21-1174941.png
+[mysql]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/programming/mysql-21-1174941.png
 
-[<img align="left" width="50px" height="50px" border="1px solid"  src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/256x256/git.png">][git]
+[<img align="left" width="50px" height="50px" border="1px solid"  src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/programming/git.png">][git]
 
-[git]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/256x256/git.png
+[git]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/programming/git.png
 
-[<img align="left" width="50px" height="50px" border="1px solid" src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/256x256/html5-10-569380.png">][html]
+[<img align="left" width="50px" height="50px" border="1px solid" src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/programming/html5-10-569380.png">][html]
 
-[html]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/256x256/html5-10-569380.png
+[html]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/programming/html5-10-569380.png
 
-[<img align="left" width="40px" height="40px" border="1px solid" src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/256x256/css-131-722685.png">][css]
+[<img align="left" width="40px" height="40px" border="1px solid" src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/programming/css-131-722685.png">][css]
 
-[css]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/256x256/git.png
+[css]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/programming/css-131-722685.pngw
