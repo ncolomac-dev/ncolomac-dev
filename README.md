@@ -9,7 +9,6 @@ ___
 I'm currently working in my personal projects and i'm searching for work.* 🏃
 ___
 
-<br/>
 
 ## Stats:
 
@@ -43,16 +42,14 @@ ___
 
 [<img align="left" width="40px" src="https://raw.githubusercontent.com/ncolomac-dev/ncolomac-dev/main/Images/programming/css-131-722685.png">][css]
 
-[css]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/programming/css-131-722685.png
+[css]: https://github.com/ncolomac-dev/ncolomac-dev/blob/main/Images/programming/css-131-722685.png 
 
-___
+<br/>
 <br />
 <br/>
 
 
 ## Used Languaje:
-___
-
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncolomac-dev&layout=compact)](https://github.com/ncolomac-dev/ncolomac-dev)
